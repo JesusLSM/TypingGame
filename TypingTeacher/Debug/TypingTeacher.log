@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\seungmin\documents\visual studio 2015\projects\typingteacher\typingteacher\main.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TypingTeacher.vcxproj -> C:\Users\SeungMin\documents\visual studio 2015\Projects\TypingTeacher\Debug\TypingTeacher.exe
+  TypingTeacher.vcxproj -> C:\Users\SeungMin\documents\visual studio 2015\Projects\TypingTeacher\Debug\TypingTeacher.pdb (Full PDB)
